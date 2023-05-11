@@ -1,5 +1,5 @@
-<h1 align="center">Salut, salut, je suis Lucas aka LuxJumMou</h1>
-<h3 align="center">Je suis un géographe qui code un peu, mais pas trop</h3>
+<h1 align="center">LuxJumMou</h1>
+<h3 align="center">Je suis un géographe</h3>
 
 - On peut me contacter à travers l'internet **lucas.jumeau-mousset@enercoop.org**
 
